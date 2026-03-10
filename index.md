@@ -1,4 +1,5 @@
-# GitHub Pages Test
+## GitHub Pages Test
+
 ## Sub Heading Test
 **Bold Text Test** <br>
 *Italic Test* <br>

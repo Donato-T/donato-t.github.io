@@ -1,1 +1,1 @@
-<h1> GitHub Pages Test </h1>
+GitHub Pages Test

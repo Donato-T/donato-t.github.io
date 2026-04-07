@@ -1,6 +1,13 @@
-## GitHub Pages Test
+# Montanc Advisory Test Page
 
-## Sub Heading Test
-**Bold Text Test** <br>
-*Italic Test* <br>
-Normal Text Test <br>
+## This page will serve as the homepage for MA
+
+[Text within the brackets are comments:
+*Italic Text*
+**Bold Text**
+***Bold Italic***
+Normal Text
+<br> line break
+]: #
+
+

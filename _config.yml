@@ -1,4 +1,11 @@
-theme: minima
+theme: jekyll-theme-slate
 title: Montanc Advisory
-description: homepage for MA
+description: Montanc Advisory Homepage
 url: https://donato-t.github.io/
+company_address: "Melbourne, Australia"
+company_phone: "+61 3 1234 5678"
+facebook_url: "https://facebook.com/yourcompany"
+linkedin_url: "https://linkedin.com/company/yourcompany"
+author:
+  name: "VT - Director"
+  email: "contact@montancadvisory.com.au"

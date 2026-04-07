@@ -1,12 +1,13 @@
 [Text within the brackets are comments]: #
 
-Normal Text
+Normal Text <br>
 *Italic Text* <br>
 **Bold Text** <br>
-***Bold Italic*** <br>
+***Bold Italic***
 
-# = Heading 1
-## = Heading 2
+# Heading 1
+## Heading 2
+### Heading 3
 
 
 
